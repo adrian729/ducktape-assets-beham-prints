@@ -1,0 +1,53 @@
+# descriptive: find it and understand it
+id: centaurs-and-riders-foliate-frieze
+title: Frieze of four centaurs with riders
+description: A horizontal engraved frieze of four centaurs, two on each side, rearing toward the centre. The two inner centaurs, bearded and leaf-crowned, each carry a young rider and together grip a leafy spray that rises from a small bowl at the bottom centre; the two outer centaurs carry nude women who hold long feathery fronds arching over the ends. Trefoil sprigs and a low band of acanthus scrolls run between the hooves. Black ink line work on cream paper, no rules, background transparent.
+type: divider
+categories:
+  - fantasy
+  - hybrids
+  - humans
+  - botanical
+subjects:
+  - frieze
+  - centaur
+  - rider
+  - woman
+  - beard
+  - leaf
+  - bowl
+  - scroll
+colors:
+  - cream
+  - black
+  - brown
+facing: mixed
+composition: multiple-figures
+
+# structural: how it is organised and related
+group: 1943-3-1052
+render:
+  image: {}
+usage_notes:
+  - Complete band about three times wider than tall; the fronds at both ends are its natural terminals, so no cropping is needed.
+display_width:
+  - 600
+  - 1200
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: National Gallery of Art, Washington
+  object_title: Frieze with Centaurs
+  object_identifier: 1943.3.1052
+  date: "1521"
+  artist: Sebald Beham
+  record_url: https://www.nga.gov/collection/art-object-page.4270.html
+  rights_text: Open Access / public domain; official image dataset openaccess=1
+  rights_url: https://www.nga.gov/artworks/free-images-and-open-access
+  source_sha256: e06daa09be73b5d6222da2465b7776bb7cdd9a37a4d7995ae4fd7ee9acfb6d42
+license: CC0-1.0

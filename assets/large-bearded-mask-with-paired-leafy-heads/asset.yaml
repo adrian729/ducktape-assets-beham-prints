@@ -1,0 +1,53 @@
+# descriptive: find it and understand it
+id: large-bearded-mask-with-paired-leafy-heads
+title: Bearded mask in a leaf scroll
+description: A horizontal, symmetrical engraved panel centred on a large frontal mask of a bearded man with an open mouth, small curled horns at the temples and a ribbed cap bound with a leaf garland; his beard flows down into leaf fronds. From the cap two long swags of overlapping leaves fall to either side, and thin stems with acanthus volutes, lobed leaves and small buds fill both halves. Halfway down each side a leafy beaked head bites a stem. Black ink line work on cream paper, background transparent.
+type: ornament
+categories:
+  - fantasy
+  - botanical
+  - scrollwork
+  - hybrids
+subjects:
+  - mask
+  - face
+  - beard
+  - horn
+  - leaf
+  - acanthus
+  - scroll
+  - bird-like-creature
+colors:
+  - cream
+  - black
+  - brown
+facing: viewer
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 1941-2-6
+render:
+  image: {}
+usage_notes:
+  - Complete symmetrical panel; the mask reads from a distance, so it works as a headpiece above a title.
+display_width:
+  - 400
+  - 900
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: National Gallery of Art, Washington
+  object_title: Ornament Panel with a Large Bearded Mask
+  object_identifier: 1941.2.6
+  date: "1543"
+  artist: Sebald Beham
+  record_url: https://www.nga.gov/collection/art-object-page.831.html
+  rights_text: Open Access / public domain; official image dataset openaccess=1
+  rights_url: https://www.nga.gov/artworks/free-images-and-open-access
+  source_sha256: 76395ee2c7ec392e3f7ce9d48e5f9c76278489908e52c0692d4d1f0831409f01
+license: CC0-1.0

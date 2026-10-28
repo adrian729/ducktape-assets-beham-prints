@@ -1,0 +1,54 @@
+# descriptive: find it and understand it
+id: double-cup-with-two-putti
+title: Double cup with two putti
+description: A tall, symmetrical engraved double cup. A round foot and knopped stem carry a bulbous lower bowl, a wide band decorated with masks, lozenges and strapwork, and an inverted upper bowl topped by a small cup; thin leafy tendrils with two small birds rise from the sides and tasselled pendants hang at the left and right. At the base two winged putti sit on either side of the stem, each resting a hand on a blank strapwork cartouche. Black ink line work on cream paper, background transparent.
+type: ornament
+categories:
+  - humans
+  - scrollwork
+  - botanical
+subjects:
+  - cup
+  - putto
+  - wings
+  - cartouche
+  - mask
+  - leaf
+  - scroll
+  - pendant
+  - bird
+colors:
+  - cream
+  - black
+  - gray
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: o1919-19
+render:
+  image: {}
+usage_notes:
+  - The two cartouches at the base are blank and small; the piece is a goldsmith's design, not a frame for text.
+display_width:
+  - 150
+  - 300
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Museum für Kunst und Gewerbe Hamburg
+  object_title: Doppelpokal, unten zwei Putti mit Wappenschilden
+  object_identifier: O1919.19
+  date: "1531"
+  artist: Beham, Hans Sebald
+  record_url: https://www.mkg-hamburg.de/sammlung/objekt/doppelpokal-unten-zwei-putti-wappenschilden/O1919.19/dc00101707
+  image_url: https://www.mkg-hamburg.de/object/dc00101707/image-download/0
+  image_rights: LicenseRef-PDM
+  rights_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source_sha256: a7107d63eed5b21979e77a271d2e10f87c10816a336eaf2bbadd5a2e51267049
+license: null

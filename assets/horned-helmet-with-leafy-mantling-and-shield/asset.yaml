@@ -1,0 +1,51 @@
+# descriptive: find it and understand it
+id: horned-helmet-with-leafy-mantling-and-shield
+title: Coat of arms with horned helmet
+description: An engraved coat of arms. A tilted shield bears a diagonal band charged with three small shields. Above it a closed tilting helmet turned to the right carries a crest of two tall curved horns with trumpet-shaped ends. Leafy mantling hangs from knotted ties on each side of the helmet and curls down around the shield in scalloped acanthus fronds. Black ink line work on cream paper, background transparent.
+type: illustration
+categories:
+  - royalty
+  - botanical
+subjects:
+  - coat-of-arms
+  - shield
+  - helmet
+  - crest
+  - horn
+  - mantling
+  - leaf
+colors:
+  - cream
+  - black
+  - gray
+facing: right
+composition: single-ornament
+
+# structural: how it is organised and related
+group: o1915-1
+render:
+  image: {}
+usage_notes:
+  - The shield is tilted and the helmet faces right; mirror the whole piece for a left-facing use.
+display_width:
+  - 200
+  - 450
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Museum für Kunst und Gewerbe Hamburg
+  object_title: Wappen von Hans Sebald Beham
+  object_identifier: O1915.1
+  date: "1544"
+  artist: Beham, Hans Sebald
+  record_url: https://www.mkg-hamburg.de/sammlung/objekt/wappen-hans-sebald-beham/O1915.1/dc00101701
+  image_url: https://www.mkg-hamburg.de/object/dc00101701/image-download/0
+  image_rights: LicenseRef-PDM
+  rights_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source_sha256: 51954596d36a0a7f33c8283429aa0c3f25587f3bf8eace18db450956f3df1475
+license: null

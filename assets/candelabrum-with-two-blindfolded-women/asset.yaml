@@ -1,0 +1,57 @@
+# descriptive: find it and understand it
+id: candelabrum-with-two-blindfolded-women
+title: Candelabrum carried by two blindfolded women
+description: A tall, narrow, symmetrical engraved candelabrum. At the top a winged putto stands on a leafy cushion with both arms raised, gripping the curled tips of two acanthus volutes. Below him a lobed cup, a gadrooned bowl and a baluster stem with a second small bowl, each stage flanked by mirrored acanthus scrolls and leaf sprays. At the base two nude blindfolded women kneel back to back with spiral volutes in place of arms and carry the shaft on their heads. Black ink line work on cream paper, background transparent.
+type: ornament
+categories:
+  - fantasy
+  - humans
+  - botanical
+  - scrollwork
+subjects:
+  - candelabrum
+  - putto
+  - wings
+  - woman
+  - blindfold
+  - acanthus
+  - leaf
+  - scroll
+  - bowl
+colors:
+  - cream
+  - black
+  - brown
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 1943-3-1124
+render:
+  image: {}
+usage_notes:
+  - Complete vertical ornament about six times taller than wide; it reads as a column or a page edge, not as a divider.
+  - The date and monogram panel that sits below the two women in the print is not included.
+display_width:
+  - 120
+  - 300
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The bottom edge between the two women is cut straight where the date panel of the print was removed.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: National Gallery of Art, Washington
+  object_title: Panel of Ornament with Candelabra Supported by Two Blindfolded Women
+  object_identifier: 1943.3.1124
+  date: "1527"
+  artist: Sebald Beham
+  record_url: https://www.nga.gov/collection/art-object-page.4342.html
+  image_url: https://api.nga.gov/iiif/856e5bd3-3852-4884-94e1-50ea4c8b44fb/full/full/0/default.jpg
+  rights_text: Open Access / public domain; official image dataset openaccess=1
+  rights_url: https://www.nga.gov/artworks/free-images-and-open-access
+  source_sha256: bb3572d81c8158b018e6610ac5dee17dce31a41b3b1968e6e9f7f3065f8be556
+license: CC0-1.0

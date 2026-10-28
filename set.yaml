@@ -1,0 +1,18 @@
+id: beham-prints
+title: Sebald Beham ornament prints
+summary: A centaur frieze, candelabrum and mask panels, a palmette with dolphin heads, a double cup and three heraldic shields engraved by Sebald Beham, 1521–1545, from eight sheets in Washington and Hamburg; loose prints by one artist, grouped by sheet.
+kind: historical
+author: adrian729
+maintainer: https://github.com/adrian729/ducktape-assets/issues
+license:
+  artwork: LicenseRef-PDM
+  notes: The Hamburg sheets carry the Public Domain Mark; the Washington sheets are CC0 and say so on the asset. See SOURCES.md.
+period: 1521–1545
+region: Nuremberg and Frankfurt, Germany
+style: Renaissance engraving
+origin: {}
+tags:
+  - engraving
+  - heraldry
+  - grotesque
+  - renaissance

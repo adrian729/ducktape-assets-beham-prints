@@ -1,0 +1,56 @@
+# descriptive: find it and understand it
+id: rooster-shield-and-helmet-with-leafy-mantling
+title: Coat of arms with rooster and banderoles
+description: An engraved coat of arms. A rounded shield bears a strutting rooster facing left on a stippled ground. Above it a closed tilting helmet turned to the left carries a coronet on which a crowned rooster stands between two curved horns, also facing left. Leafy acanthus mantling curls down both sides of the shield, and long blank banderoles loop above and beside the helmet. Black ink line work on cream paper, background transparent.
+type: illustration
+categories:
+  - royalty
+  - animals
+  - ribbons
+  - botanical
+subjects:
+  - coat-of-arms
+  - shield
+  - rooster
+  - helmet
+  - crown
+  - crest
+  - horn
+  - mantling
+  - ribbon
+  - leaf
+colors:
+  - cream
+  - black
+  - gray
+facing: left
+composition: single-ornament
+
+# structural: how it is organised and related
+group: jb1891-590
+render:
+  image: {}
+usage_notes:
+  - The banderoles are blank and narrow; they are decoration, not a text field.
+display_width:
+  - 180
+  - 400
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Museum für Kunst und Gewerbe Hamburg
+  object_title: Wappen mit dem Hahn
+  object_identifier: JB1891.590
+  date: "1543"
+  artist: Beham, Hans Sebald
+  record_url: https://www.mkg-hamburg.de/sammlung/objekt/wappen-dem-hahn/JB1891.590/dc00101702
+  image_url: https://www.mkg-hamburg.de/object/dc00101702/image-download/0
+  image_rights: LicenseRef-PDM
+  rights_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source_sha256: 96819cdc6c190de49e39e945e9f91e698d0c836ec38680ab74aa85ea3c95395f
+license: null

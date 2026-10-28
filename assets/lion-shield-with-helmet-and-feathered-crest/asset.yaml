@@ -1,0 +1,51 @@
+# descriptive: find it and understand it
+id: lion-shield-with-helmet-and-feathered-crest
+title: Coat of arms with rampant lion and feather crest
+description: An engraved coat of arms. A tilted shield bears a rampant lion with a curled tail, facing left. Above it a closed tilting helmet turned to the right carries a tall crest of two fans of feathers rising from a twisted wreath. Plain cloth mantling with scalloped edges hangs in long folds on both sides of the helmet and tucks behind the shield. Black ink line work on cream paper, background transparent.
+type: illustration
+categories:
+  - royalty
+  - animals
+subjects:
+  - coat-of-arms
+  - shield
+  - lion
+  - helmet
+  - crest
+  - feather
+  - mantling
+colors:
+  - cream
+  - black
+  - gray
+facing: mixed
+composition: single-ornament
+
+# structural: how it is organised and related
+group: o1906-118
+render:
+  image: {}
+usage_notes:
+  - The lion faces left and the helmet right, so the piece has no single direction; mirroring it changes the lion's heraldic side.
+display_width:
+  - 200
+  - 450
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Museum für Kunst und Gewerbe Hamburg
+  object_title: Wappen mit steigendem Löwen
+  object_identifier: O1906.118
+  date: "1544"
+  artist: Beham, Hans Sebald
+  record_url: https://www.mkg-hamburg.de/sammlung/objekt/wappen-steigendem-lowen/O1906.118/dc00101703
+  image_url: https://www.mkg-hamburg.de/object/dc00101703/image-download/0
+  image_rights: LicenseRef-PDM
+  rights_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source_sha256: 3fb9536b2ad7d5ce2bd89518eb395f4b96d0bd29a0fa760f372f315f76f168c6
+license: null
