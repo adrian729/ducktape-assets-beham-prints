@@ -3,7 +3,7 @@
 
 A centaur frieze, candelabrum and mask panels, a palmette with dolphin heads, a double cup and three heraldic shields engraved by Sebald Beham, 1521–1545, from eight sheets in Washington and Hamburg; loose prints by one artist, grouped by sheet.
 
-Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `beham-prints`, historical, 8 assets.
+Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `beham-prints`, historical, 8 assets, version 1.0.0.
 
 ## Licence and attribution
 
@@ -13,10 +13,10 @@ Author: adrian729. Maintainer: https://github.com/adrian729/ducktape-assets/issu
 
 ## Use one asset
 
-No version is published yet. Once it is, pin the exact version (never `@latest`); the URL scheme is:
+Pin the exact version (never `@latest`). For `beham-prints/candelabrum-with-two-blindfolded-women`:
 
-```
-https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-beham-prints@<version>/webp/<asset-id>-<width>.webp
+```html
+<img src="https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-beham-prints@1.0.0/webp/candelabrum-with-two-blindfolded-women-512.webp" alt="" loading="lazy">
 ```
 
 Package `@ranx729/ducktape-assets-beham-prints`; every file, width and format is listed in its `manifest.json`. Masters live in git under `assets/<id>/` and in `@ranx729/ducktape-assets-beham-prints-masters`; never put a master on a page.
